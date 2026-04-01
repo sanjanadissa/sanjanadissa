@@ -1,8 +1,5 @@
 ![Banner](banner.png)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DynaPuff&weight=500&size=28&pause=800&color=A1F71A&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sanjana+Dissanayake;I+focus+on+transforming+ideas+into+real-world+applications;My+expertise+includes+AI,+backend+engineering,+and+full-stack+development" />
-</p>
 
 ---
 
