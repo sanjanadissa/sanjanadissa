@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1200&color=d6e3f8&center=true&vCenter=true&width=1100&height=100&lines=Hi+👋,+I'm+Sanjana+Dissanayake;Computer+Science+Undergraduate;AI+%7C+Full-Stack+%7C+.NET+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=DynaPuff&weight=500&size=28&pause=800&color=A1F71A&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sanjana+Dissanayake;I+focus+on+transforming+ideas+into+real-world+applications;My+expertise+includes+AI,+backend+engineering,+and+full-stack+development" />
 </p>
 
 ---
