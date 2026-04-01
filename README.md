@@ -3,13 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=DynaPuff&weight=500&size=24&pause=800&color=A1F71A&center=true&vCenter=true&width=700&lines=Hi%2C+Im+Sanjana+Dissanayake;I+focus+on+transforming+ideas+into+real-world+applications;Experienced+in+AI%2C+backend%2C+and+full-stack+systems" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=DynaPuff&weight=500&size=24&pause=800&color=A1F71A&center=true&vCenter=true&width=700&lines=Hi%2C+Im+Sanjana+Dissanayake;I+focus+on+transforming+ideas+into+real-world+applications;Experienced+in+AI%2C+backend%2C+and+full-stack+systems)](https://git.io/typing-svg" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&weight=500&size=21&pause=600&color=A1F71A&center=true&vCenter=true&width=680&height=150&lines=Hi%2C+Im+Sanjana+Dissanayake;I+focus+on+transforming+ideas+into+real-world+applications;Experienced+in+AI%2C+backend%2C+and+full-stack+systems)](https://git.io/typing-svg)
-
 ## 👨‍💻 About Me
 
 🎓 Computer Science Undergraduate  
