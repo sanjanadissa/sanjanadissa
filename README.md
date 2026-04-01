@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sanjana+Dissanayake;I+focus+on+transforming+ideas+into+real-world+applications;My+expertise+includes+AI,+backend+engineering,+and+full-stack+development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+Im+Sanjana+Dissanayake;I+focus+on+transforming+ideas+into+real-world+applications;My+expertise+includes+AI,+backend+engineering,+and+full-stack+development" />
 </p>
 
 ## 👨‍💻 About Me
