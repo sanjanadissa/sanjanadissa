@@ -62,31 +62,12 @@
 ### 🧰 Tools & DevOps
 `Docker` `Git` `GitHub` `VS Code`
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 AI-Based Medicine Demand Prediction System
-- Built ML models to predict medicine demand
-- Used synthetic + real-world aligned datasets
-- Focused on **healthcare optimization**
-
-### ✈️ Airline Ticket Booking System
-- Java-based full system with GUI
-- SQL database integration
-- Role-based access (Admin/User)
-
-### 💬 Real-Time Web App (Spring Boot + WebSockets)
-- Implemented STOMP messaging
-- Live updates between users
-- Interactive frontend
-
-### 🧾 Employee Management System (WPF)
-- Role-based dashboards (Admin / Manager / Employee)
-- Payslip generation + leave tracking
-- SQL Server integration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,react,nextjs,nodejs,express,spring,dotnet,fastapi,flask,tensorflow,postgres,mongodb,mysql,supabase,redis,docker,git&perline=7" />
+</p>
 
 ---
+
 
 ## 📊 GitHub Stats
 
