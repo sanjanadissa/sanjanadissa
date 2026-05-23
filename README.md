@@ -67,38 +67,50 @@
 ---
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
+<table align="center">
+<tr border="none">
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarinDulneth&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarinDulneth&theme=tokyonight" />
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanadissa&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanadissa&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanadissa&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanadissa&theme=tokyo-night"/>
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=HarinDulneth&theme=tokyonight&hide_border=true&background=0D1117&ring=BF91F3&fire=BF91F3&currStreakLabel=38BDAE"
+  />
 </p>
 
 ---
 
-## 🧠 Currently Learning
+# 📈 Contribution Graph
 
-- Advanced Machine Learning & Model Optimization  
-- Cybersecurity & Penetration Testing  
-- Scalable System Design  
-
----
-
-## ⚡ Fun Fact
-
-💡 I enjoy combining **AI + Full Stack** to build smart applications that actually solve problems.
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HarinDulneth&theme=nightowl&hide_border=true&bg_color=0D1117&area=true&line=BF91F3&point=BF91F3&color=70A5FD"
+  />
+</p>
 
 ---
 
-## 📌 Quote
+
+## 📌
 
 > “Code is not just about solving problems — it's about creating impact.”
 
