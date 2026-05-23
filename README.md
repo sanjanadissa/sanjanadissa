@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=DynaPuff&weight=500&size=24&pause=800&color=A1F71A&center=true&vCenter=true&width=700&lines=Hi%2C+Im+Sanjana+Dissanayake;I+focus+on+transforming+ideas+into+real-world+applications;Experienced+in+AI%2C+backend%2C+and+full-stack+systems" />
 </p>
- 👨‍💻 About Me
+
+# 👨‍💻 About Me
 
 🎓 Computer Science Undergraduate  
 🏫 University of Kelaniya  
