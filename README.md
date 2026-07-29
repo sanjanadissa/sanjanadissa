@@ -120,11 +120,9 @@ A WPF + Python desktop AI assistant powered by the Groq API — turns plain-Engl
 
 <div align="center">
 
-*Also shipped: **Laughing Cat Error Sounds**, a published VS Code extension, and a portfolio site featuring a performance-optimized Three.js ghost animation.*
-
 </div>
 
-> **Note:** swap the `href`/link placeholders above for your actual repo URLs once you drop this in — pin the ones you're proudest of using GitHub's own "Customize your pins" feature under your profile, since it renders your real repo cards automatically.
+>
 
 <br/>
 
