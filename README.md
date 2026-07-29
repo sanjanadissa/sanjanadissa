@@ -21,9 +21,7 @@
 
 
 <div align="center">
-
-## 🖥️ System Overview
-
+  <strong style="font-size:28px;">🖥️ System Overview</strong>
 </div>
 
 <table width="100%">
