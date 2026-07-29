@@ -20,9 +20,11 @@
 <br/>
 
 
-<div align="center" style="margin-bottom: 25px;">
+<div align="center">
 
-<h1>🖥️ System Overview</h1>
+<p>
+  <strong><font size="6">🖥️ System Overview</font></strong>
+</p>
 
 </div>
 
