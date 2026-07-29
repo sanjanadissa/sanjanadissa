@@ -29,7 +29,7 @@
 </div>
 <div align="center">
 
-<b style="font-size:32px;">🖥️ System Overview</b>
+<b style="font-size:64px;">🖥️ System Overview</b>
 
 </div>
 
