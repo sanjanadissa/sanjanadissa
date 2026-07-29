@@ -19,47 +19,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,50:0a2540,100:030014&height=220&section=header&text=Sanjana%20Dissanayake&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2B%20Full-Stack%20Engineer%20%7C%20Turning%20ideas%20into%20real%20systems&descAlignY=58&descSize=18&descColor=FF3CBD" width="100%"/>
-
-<a href="https://sanjana-dissanayake.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%2B+Full-Stack+Software+Engineer;Third-Year+CS+Undergraduate+%40+University+of+Kelaniya;Shipping+production-shaped+systems%2C+not+just+demos;Currently%3A+FastAPI+%2B+.NET+%2B+React+%2B+Applied+ML" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF3CBD?style=for-the-badge&logo=vercel&logoColor=030014)](https://sanjana-dissanayake.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-030014?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/sanjana-dissanayake-b04963302/)
-[![Gmail](https://img.shields.io/badge/Gmail-030014?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:sanjanadissanayake22@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/sanjanadissa?style=for-the-badge&color=030014&logo=github&label=Follow&logoColor=00E5FF)](https://github.com/sanjanadissa)
-
-<img src="https://komarev.com/ghpvc/?username=sanjanadissa&label=Profile%20Views&color=030014&style=for-the-badge" alt="Profile views"/>
-
-</div>
-
-<br/>
-
-![Banner](banner.png)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=DynaPuff&weight=500&size=24&pause=800&color=A1F71A&center=true&vCenter=true&width=700&lines=Hi%2C+Im+Sanjana+Dissanayake;I+focus+on+transforming+ideas+into+real-world+applications;Experienced+in+AI%2C+backend%2C+and+full-stack+systems" />
-</p>
-
-# 👨‍💻 About Me
-
-🎓 Computer Science Undergraduate  
-🏫 University of Kelaniya  
-
-💡 I’m passionate about building *real-world software solutions* using:
-
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🌐 Full Stack Development  
-- ⚙️ .NET & Backend Systems  
-
-🚀 I enjoy turning ideas into *functional, scalable applications* — from UI to backend logic.
-
----
 
 ## 🖥️ System Overview
 
