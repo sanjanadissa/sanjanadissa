@@ -26,7 +26,7 @@
 <tr>
 <td width="36%" align="center" valign="middle">
 
-<img src="./dot_morph.gif" width="400" alt="dot-matrix particle animation morphing between a portrait and JS, React, Python, C#, Spring Boot, and .NET logos"/>
+<img src="./dot_morph.gif" width="370" alt="dot-matrix particle animation morphing between a portrait and JS, React, Python, C#, Spring Boot, and .NET logos"/>
 
 </td>
 <td width="64%" valign="top">
@@ -41,7 +41,7 @@ ToolChain     = FastAPI · .NET · React · PostgreSQL
 
 Core.Lang     = Python, JavaScript/TypeScript, Java, C#
 Core.Frontend = React, Next.js, Tailwind CSS
-Core.Backend  = FastAPI, .NET / ASP.NET Core, Spring Boot, Node/Express
+Core.Backend  = .NET / ASP.NET Core, Spring Boot, Node/Express
 Core.Database = PostgreSQL, MongoDB, Supabase, Redis
 Core.Infra    = Docker, Git, CI/CD
 
@@ -50,6 +50,30 @@ Grid.Portfolio = sanjana-dissanayake.vercel.app
 Grid.LinkedIn  = /in/sanjana-dissanayake-b04963302
 Grid.GitHub    = @sanjanadissa
 ```
+const sanjana = new Engineer({
+  name: "Sanjana Dissanayake",
+  role: "AI & Full-Stack Engineer",
+
+  education: {
+    university: "University of Kelaniya",
+    status: "Third-Year CS Undergraduate"
+  },
+
+  tech: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["FastAPI", ".NET", "Spring Boot", "Express"],
+    databases: ["PostgreSQL", "MongoDB", "Supabase", "Redis"],
+    languages: ["Python", "TypeScript", "JavaScript", "Java", "C#"],
+    devOps: ["Docker", "Git", "CI/CD"]
+  },
+
+  links: {
+    portfolio: "https://sanjana-dissanayake.vercel.app",
+    github: "https://github.com/sanjanadissa",
+    linkedin: "https://linkedin.com/in/sanjana-dissanayake-b04963302",
+    email: "mailto:sanjanadissanayake22@gmail.com"
+  }
+});
 
 </td>
 </tr>
