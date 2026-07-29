@@ -155,7 +155,7 @@ A WPF + Python desktop AI assistant powered by the Groq API — turns plain-Engl
 </picture>
 </div>
 
-> This animates automatically once the workflow below is running — see setup notes at the bottom.
+> 
 
 <br/>
 
