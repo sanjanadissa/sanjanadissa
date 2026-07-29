@@ -20,8 +20,10 @@
 <br/>
 
 
-<div align="center">
-  <strong style="font-size:28px;">🖥️ System Overview</strong>
+<div align="center" style="margin-bottom: 25px;">
+
+<h1>🖥️ System Overview</h1>
+
 </div>
 
 <table width="100%">
