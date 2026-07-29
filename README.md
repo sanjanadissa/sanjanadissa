@@ -32,12 +32,12 @@
 <td width="64%" valign="top">
 
 ```ini
-Subject       = sanjanadissa
-Role          = AI / Full-Stack Engineer
-Origin        = Sri Lanka
-Education     = University of Kelaniya
-Status        = Third-year CS Undergraduate
-ToolChain     = FastAPI · .NET · React · PostgreSQL
+dev.Name       = sanjanadissa
+dev.Role          = AI / Full-Stack Engineer
+dev.Origin        = Sri Lanka
+dev.Education     = University of Kelaniya
+dev.Status        = Third-year CS Undergraduate
+dev.ToolChain     = FastAPI · .NET · React · PostgreSQL
 
 Core.Lang     = Python, JavaScript/TypeScript, Java, C#
 Core.Frontend = React, Next.js, Tailwind CSS
@@ -50,30 +50,6 @@ Grid.Portfolio = sanjana-dissanayake.vercel.app
 Grid.LinkedIn  = /in/sanjana-dissanayake-b04963302
 Grid.GitHub    = @sanjanadissa
 ```
-const sanjana = new Engineer({
-  name: "Sanjana Dissanayake",
-  role: "AI & Full-Stack Engineer",
-
-  education: {
-    university: "University of Kelaniya",
-    status: "Third-Year CS Undergraduate"
-  },
-
-  tech: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["FastAPI", ".NET", "Spring Boot", "Express"],
-    databases: ["PostgreSQL", "MongoDB", "Supabase", "Redis"],
-    languages: ["Python", "TypeScript", "JavaScript", "Java", "C#"],
-    devOps: ["Docker", "Git", "CI/CD"]
-  },
-
-  links: {
-    portfolio: "https://sanjana-dissanayake.vercel.app",
-    github: "https://github.com/sanjanadissa",
-    linkedin: "https://linkedin.com/in/sanjana-dissanayake-b04963302",
-    email: "mailto:sanjanadissanayake22@gmail.com"
-  }
-});
 
 </td>
 </tr>
