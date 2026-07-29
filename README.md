@@ -23,7 +23,7 @@
 <div align="center">
 
 <p>
-  <strong><font size="6">🖥️ System Overview</font></strong>
+  <strong><font size="16">🖥️ System Overview</font></strong>
 </p>
 
 </div>
