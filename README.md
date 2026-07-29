@@ -164,4 +164,108 @@ learning:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,50:0a2540,100:030014&height=120&section=footer&animation=fadeIn" width="100%"/>
 
+</div>- 🤖 Long-term interest in pairing AI/ML with real DevOps and deployment infrastructure (CI/CD, Docker, n8n, MLflow)
+- 🚀 Builds side projects deliberately, to develop industry-relevant skills beyond university coursework
+- 📫 Reach me through the badges above
+
+<br/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,react,nextjs,tailwind,nodejs,express,spring,dotnet,fastapi,flask,tensorflow,mysql,postgres,mongodb,supabase,redis,docker,git,github,threejs&perline=8" />
+</div>
+
+<br/>
+
+<h2 align="center">🚀 Featured Builds</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ K&LL Traders
+Sri Lankan e-commerce platform with a FastAPI backend and a custom WhatsApp Business API payment flow — including a decimal fingerprint system for matching payments.
+
+`FastAPI` `PostgreSQL` `WhatsApp Business API`
+
+</td>
+<td width="50%" valign="top">
+
+### ⌚ DialDesk
+A point-of-sale system built for a watch store, handling the full sales and inventory workflow.
+
+`.NET / ASP.NET Core` `React` `TypeScript` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Relic Ring Protocol — Zeta-26
+AI-powered interplanetary routing simulator built for the IEEE CS Launch26 hackathon (team Devix). Physics-based routing (Dijkstra, Yen's K-shortest paths) plus ML sub-models for congestion, trust, and targeting.
+
+`React` `TypeScript` `Applied ML`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Mimir
+A WPF + Python desktop AI assistant powered by the Groq API — turns plain-English instructions into executable Python, running in a persistent, safety-scanned virtual environment.
+
+`WPF` `Python` `Groq API`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=sanjanadissa&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=030014&title_color=00E5FF&icon_color=3B82F6&text_color=e2e8f0"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=sanjanadissa&theme=radical&hide_border=true&background=030014&ring=00E5FF&fire=3B82F6&currStreakLabel=00E5FF&sideLabels=e2e8f0"/>
+</div>
+
+<div align="center">
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjanadissa&layout=compact&theme=radical&hide_border=true&bg_color=030014&title_color=00E5FF&text_color=e2e8f0"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanadissa&theme=react-dark&bg_color=030014&color=00E5FF&line=3B82F6&point=FFFFFF&hide_border=true" width="90%"/>
+</div>
+
+<br/>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjanadissa/sanjanadissa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjanadissa/sanjanadissa/output/github-snake.svg" />
+  <img alt="a snake eating the github contribution graph" src="https://raw.githubusercontent.com/sanjanadissa/sanjanadissa/output/github-snake.svg" width="90%"/>
+</picture>
+</div>
+
+<br/>
+
+<h2 align="center">🧭 Currently Learning</h2>
+
+```yaml
+learning:
+  - "Advanced Machine Learning & model optimization"
+  - "Cybersecurity & penetration testing"
+  - "Scalable system design"
+```
+
+<br/>
+
+<div align="center">
+
+### 💭
+> "Code is not just about solving problems — it's about creating impact."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,50:0a2540,100:030014&height=120&section=footer&animation=fadeIn" width="100%"/>
+
 </div>
