@@ -19,19 +19,7 @@
 
 <br/>
 
-
-<div align="center">
-
-<p>
-  <strong><font size="7">🖥️ System Overview</font></strong>
-</p>
-
-</div>
-<div align="center">
-
-<b style="font-size:64px;">🖥️ System Overview</b>
-
-</div>
+<h2 align="center">🖥️ System Overview</h2>
 
 <table width="100%">
 <tr>
