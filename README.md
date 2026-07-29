@@ -57,7 +57,7 @@ Grid.GitHub    = @sanjanadissa
 
 <br/>
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
 - 🎓 Computer Science Undergraduate specializing in AI, University of Kelaniya
 - ⚙️ Comfortable across the stack — schema design, API architecture, frontend animation, and deployment
@@ -67,7 +67,7 @@ Grid.GitHub    = @sanjanadissa
 
 <br/>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,react,nextjs,tailwind,nodejs,express,spring,dotnet,fastapi,flask,tensorflow,mysql,postgres,mongodb,supabase,redis,docker,git,github,threejs&perline=8" />
@@ -75,24 +75,9 @@ Grid.GitHub    = @sanjanadissa
 
 <br/>
 
-<details>
-<summary><b>🔍 Breakdown by category</b></summary>
 <br/>
 
-| Category | Stack |
-|---|---|
-| **Languages** | Python · JavaScript · TypeScript · Java · C# |
-| **Frontend** | React · Next.js · Tailwind CSS · Three.js |
-| **Backend** | Node.js · Express · Spring Boot · .NET / ASP.NET Core · FastAPI · Flask |
-| **AI / ML** | TensorFlow · Scikit-learn · Pandas · NumPy |
-| **Databases** | MySQL · PostgreSQL · MongoDB · Supabase · Redis |
-| **Infra / Tooling** | Docker · Git · GitHub Actions · n8n · MLflow |
-
-</details>
-
-<br/>
-
-## 🚀 Featured Builds
+<h2 align="center">🚀 Featured Builds</h2>
 
 <table width="100%">
 <tr>
@@ -143,7 +128,7 @@ A WPF + Python desktop AI assistant powered by the Groq API — turns plain-Engl
 
 <br/>
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=sanjanadissa&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=030014&title_color=00E5FF&icon_color=FF3CBD&text_color=e2e8f0"/>
@@ -160,7 +145,7 @@ A WPF + Python desktop AI assistant powered by the Groq API — turns plain-Engl
 
 <br/>
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 <picture>
@@ -174,15 +159,7 @@ A WPF + Python desktop AI assistant powered by the Groq API — turns plain-Engl
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanjanadissa&theme=radical&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
-
-## 🧭 Currently Learning
+<h2 align="center"> 🧭 Currently Learning</h2>
 
 ```yaml
 learning:
