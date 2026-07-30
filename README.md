@@ -25,7 +25,7 @@
 <tr>
 <td width="36%" align="center" valign="middle">
 
-<img src="./dot_morph.gif" width="370" alt="dot-matrix particle animation morphing between a portrait and JS, React, Python, C#, Spring Boot, and .NET logos"/>
+<img src="./dot_morph.gif" width="350" alt="dot-matrix particle animation morphing between a portrait and JS, React, Python, C#, Spring Boot, and .NET logos"/>
 
 </td>
 <td width="64%" valign="top">
